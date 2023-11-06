@@ -68,7 +68,8 @@ else:
 ```
  
 # Output : 
-![image](https://github.com/ShanmathiShanmugam/Poisson_distribution/assets/121243595/3ba358f0-e31a-4faf-ac99-454b4fc93071)
+![image](https://github.com/RagulRM/Poisson_distribution/assets/121609342/5649f1a5-2022-4317-83c8-b66e373188ac)
+
 
 # Results
 
